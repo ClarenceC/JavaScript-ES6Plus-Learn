@@ -2,4 +2,4 @@
 
 
 
-### [Symbol]()
+### [Symbol](https://github.com/ClarenceC/JavaScript-ES6Plus-Learn/issues/1)
