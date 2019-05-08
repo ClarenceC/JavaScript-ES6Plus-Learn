@@ -7,3 +7,7 @@
 ### [Iterator 遍历器](https://github.com/ClarenceC/JavaScript-ES6Plus-Learn/issues/2)
 
 ### [for...of循环](https://github.com/ClarenceC/JavaScript-ES6Plus-Learn/issues/3)
+
+### [Set](https://github.com/ClarenceC/JavaScript-ES6Plus-Learn/issues/4)
+
+### [Map](https://github.com/ClarenceC/JavaScript-ES6Plus-Learn/issues/5)
